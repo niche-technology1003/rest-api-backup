@@ -4,8 +4,3 @@ scalability with in specific mini applications
 microservices talk through REST so its language independent
 
 These mini applications are technically called microservices.
-
-
-
-to initialize git project
-git init
