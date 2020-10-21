@@ -8,3 +8,15 @@ These mini applications are technically called microservices.
 Adding more stuff
 
 Few more stuff
+
+
+Breaking down your application to independent mini applications deployed on different server also (which can talk to each other over network by REST API) offer great advantages:
+ease of deployment
+scalability with in specific mini applications
+microservices talk through REST so its language independent
+
+These mini applications are technically called microservices.
+
+Adding more stuff
+
+Few more stuff
