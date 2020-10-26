@@ -16,9 +16,13 @@ creating Branch now
 Folliwng fields are key stages for our development:
 
 ## Analysis
+Analysis is very import as it forms the base of any development. You need to know before hand what you want to achieve.
 
 ## Code
+coding is shaping of your ideas
 
 ## testing
+To achieve what you are building you have to have facts to prove your point
 
 ## deployment
+Rolling out your ideas to the world
