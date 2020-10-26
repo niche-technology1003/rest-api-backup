@@ -12,7 +12,8 @@ Few more stuff
 creating Branch now
 
 
-#Important Sections
+# Important Sections
+Folliwng fields are key stages for our development:
 
 ## Analysis
 
