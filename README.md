@@ -10,3 +10,14 @@ Adding more stuff
 Few more stuff
 
 creating Branch now
+
+
+#Important Sections
+
+## Analysis
+
+## Code
+
+## testing
+
+## deployment
